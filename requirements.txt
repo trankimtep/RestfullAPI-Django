@@ -1,0 +1,6 @@
+django==4.0.4
+Markdown==3.3.4
+gunicorn
+djangorestframework==3.13.1
+psycopg2>=2.8.6, <2.9
+uWSGI>=2.0.19.1,<2.1
